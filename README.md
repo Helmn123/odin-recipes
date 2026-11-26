@@ -1,1 +1,2 @@
 # odin-recipes
+First website project, learning how to setup my git, github, adding links and images as well as text formats like paragraphing, titles etc. Learniing the basics of maneuvering through terminal. Has been a great fun creating my own thing and am excited on embarking on more advanced projects in the future.
